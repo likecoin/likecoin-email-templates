@@ -72,8 +72,10 @@ table td { border-collapse: collapse; }
                   <tr>
                     <td width="100%" background="https://static.like.co/email/images/banner_bg.png" style="background-image:url('https://static.like.co/email/images/banner_bg.png'); background-repeat: repeat-y; background-size: 100%;">
                       <div style="text-align: center;">
-                        <img width="110px" height="110px" object-fit="contain" src=${avatar} alt=${user} 
-                          style="overflow: hidden; border: 1px solid rgba(0,0,0,.2); border-radius: 50%;" />
+                        <a href="https://like.co/in">
+                          <img width="110px" height="110px" object-fit="contain" src=${avatar} alt=${user} 
+                            style="overflow: hidden; border: 1px solid rgba(0,0,0,.2); border-radius: 50%;" />
+                        </a>
                       </div>
                       <div>
                         <font face="'Open Sans', Arial, sans-serif">
