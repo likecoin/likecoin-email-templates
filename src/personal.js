@@ -11,7 +11,6 @@ module.exports = ({ user, avatar, title, date, body }) => `<!DOCTYPE html PUBLIC
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400');
 
-#outlook a { padding: 0; }
 body {
   width: 100% !important;
   -webkit-text;
