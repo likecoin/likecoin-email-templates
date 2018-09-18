@@ -176,7 +176,7 @@ table td { border-collapse: collapse; }
                   <tr>
                     <td align="center" valign"top">
                       <font face="'Open Sans', Arial, sans-serif">
-                        <a href="https://intercom.help/likecoin" style="color: #28646E;">
+                        <a href="https://help.like.co" style="color: #28646E;">
                           help centre
                         </a>
                       </font>
