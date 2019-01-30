@@ -28,8 +28,8 @@ module.exports = ({
   <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-      <meta name="format-detection" content="telephone=no">
-      <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;"/>
       <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
 
       <title>${title}</title>
@@ -66,7 +66,7 @@ module.exports = ({
             <!-- BEGIN - Centered-Container -->
             <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
               <tr>
-                <td align="center" valign"top">
+                <td align="center" valign="top">
 
                   <!-- BEGIN - Header -->
                   <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
@@ -193,7 +193,7 @@ module.exports = ({
 
                         <table width="100%" border="0" cellspacing="0" cellpadding="5" class="100p">
                           <tr>
-                            <td align="center" valign"top">
+                            <td align="center" valign="top">
                               <font face="'Open Sans', Arial, sans-serif">
                                 <a href="https://help.like.co" style="color: #28646E;">
                                   help centre

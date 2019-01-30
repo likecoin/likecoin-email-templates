@@ -41,7 +41,7 @@ table td { border-collapse: collapse; }
     <!-- BEGIN - Centered-Container -->
     <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
       <tr>
-        <td align="center" valign"top">
+        <td align="center" valign="top">
 
           <!-- BEGIN - Header -->
           <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
@@ -170,7 +170,7 @@ table td { border-collapse: collapse; }
 
                 <table width="100%" border="0" cellspacing="0" cellpadding="5" class="100p">
                   <tr>
-                    <td align="center" valign"top">
+                    <td align="center" valign="top">
                       <font face="'Open Sans', Arial, sans-serif">
                         <a href="https://help.like.co" style="color: #28646E;">
                           help centre
