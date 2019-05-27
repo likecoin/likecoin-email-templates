@@ -43,7 +43,7 @@ table td { border-collapse: collapse; }
         <td align="center" valign"top">
 
           <!-- BEGIN - Header -->
-          <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
+          <table width="100%" cellspacing="0" cellpadding="0" class="100p">
             <tr>
               <td bgcolor="#f7f7f7" valign="top" class="100p">
 
@@ -65,7 +65,7 @@ table td { border-collapse: collapse; }
           <!-- END - Header -->
 
           <!-- BEGIN - Body -->
-          <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
+          <table width="100%" cellspacing="0" cellpadding="0" class="100p">
             <tr>
               <td valign="top" class="100p">
                 <div>
@@ -96,7 +96,7 @@ table td { border-collapse: collapse; }
           <!-- END - Body -->
 
           <!-- BEGIN - Footer -->
-          <table width="100%" cellspacing="0" cellpadding="0" class="100p" style="max-width: 600px">
+          <table width="100%" cellspacing="0" cellpadding="0" class="100p">
             <tr>
               <td align="center" valign="top" class="100p">
 
