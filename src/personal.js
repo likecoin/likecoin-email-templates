@@ -164,6 +164,11 @@ module.exports = ({
                         <table border="0" cellspacing="0" cellpadding="10" width="240">
                           <tr>
                             <td width="28" height="28" align="center">
+                              <a href="https://matters.news/@likecoin">
+                                <img  width="28" height="28" src="https://static.like.co/email/images/links/matters.png" />
+                              </a>
+                            </td>
+                            <td width="28" height="28" align="center">
                               <a href="https://t.me/likecoin">
                                 <img  width="28" height="28" src="https://static.like.co/email/images/links/telegram.png" />
                               </a>
@@ -174,7 +179,7 @@ module.exports = ({
                               </a>
                             </td>
                             <td width="28" height="28" align="center">
-                              <a href="https://twitter.com/likecoin_fdn">
+                              <a href="https://twitter.com/likecoin">
                                 <img  width="28" height="28" src="https://static.like.co/email/images/links/twitter.png" />
                               </a>
                             </td>
