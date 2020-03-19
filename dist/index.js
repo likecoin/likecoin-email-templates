@@ -5,10 +5,12 @@ var _extends = Object.assign || function (target) { for (var i = 1; i < argument
 var BasicTemplate = require('./basic');
 var PersonalTemplate = require('./personal');
 var MinimalTemplate = require('./minimal');
+var LikerLandMinimalTemplate = require('./liker_land_minimal');
 var Components = require('./components');
 
 module.exports = _extends({
   Basic: BasicTemplate,
   Personal: PersonalTemplate,
-  Minimal: MinimalTemplate
+  Minimal: MinimalTemplate,
+  LikerLandMinimal: LikerLandMinimalTemplate
 }, Components);
