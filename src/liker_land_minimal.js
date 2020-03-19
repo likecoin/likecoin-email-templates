@@ -52,7 +52,7 @@ table td { border-collapse: collapse; }
                     <td width="50%" align="left" style="font-size:16px; color:#462814; padding-left: 40px">
                       <font face="'Open Sans', Arial, sans-serif">
                         <a href="https://liker.land" style="font-size: 16px; color: #28646E; text-decoration: none;">
-                          <img width="224px" height="88px" src="https://static.like.co/liker_land_logo.svg" alt="liker.land" />
+                          <img width="224px" height="88px" src="https://static.like.co/liker_land_logo.png" alt="liker.land" />
                         </a>
                       </font>
                     </td>
