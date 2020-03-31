@@ -1,5 +1,7 @@
+const helpCentreHref = require('./components/helpCentreHref');
+
 module.exports = ({
-  user, avatar, title, date, body, isSubscriber,
+  user, avatar, title, date, body, isSubscriber, locale,
 }) => {
   const dateContainer = date ? `
     <div>
@@ -200,9 +202,7 @@ module.exports = ({
                           <tr>
                             <td align="center" valign="top">
                               <font face="'Open Sans', Arial, sans-serif">
-                                <a href="https://help.like.co" style="color: #28646E;">
-                                  help centre
-                                </a>
+                                ${helpCentreHref({ locale })}
                               </font>
                             </td>
                           </tr>

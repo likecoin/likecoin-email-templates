@@ -1,4 +1,6 @@
-module.exports = ({ title, body }) => `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+const helpCentreHref = require('./components/helpCentreHref');
+
+module.exports = ({ title, body, locale }) => `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -146,9 +148,7 @@ table td { border-collapse: collapse; }
                   <tr>
                     <td align="center" valign"top">
                       <font face="'Open Sans', Arial, sans-serif">
-                        <a href="https://help.like.co" style="color: #28646E;">
-                          help centre
-                        </a>
+                        ${helpCentreHref({ locale })}
                       </font>
                     </td>
                   </tr>
