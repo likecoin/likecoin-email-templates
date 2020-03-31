@@ -1,4 +1,5 @@
 const helpCentreHref = require('./components/helpCentreHref');
+const unsubscribeHref = require('./components/unsubscribeHref');
 
 module.exports = ({
   user, avatar, title, date, body, isSubscriber, locale,
@@ -203,6 +204,16 @@ module.exports = ({
                             <td align="center" valign="top">
                               <font face="'Open Sans', Arial, sans-serif">
                                 ${helpCentreHref({ locale })}
+                              </font>
+                            </td>
+                          </tr>
+                        </table>
+
+                        <table width="100%" border="0" cellspacing="0" cellpadding="5" class="100p">
+                          <tr>
+                            <td align="center" valign"top">
+                              <font face="'Open Sans', Arial, sans-serif">
+                                ${unsubscribeHref({ locale })}
                               </font>
                             </td>
                           </tr>
