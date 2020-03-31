@@ -1,6 +1,6 @@
 {
   "name": "@likecoin/likecoin-email-templates",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "Email templates in LikeCoin theme",
   "main": "./dist/index.js",
   "scripts": {
