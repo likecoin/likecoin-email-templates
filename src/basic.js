@@ -55,7 +55,7 @@ table td { border-collapse: collapse; }
                   <tr>
                     <td width="100%" align="left" style="font-size:16px; color:#462814; padding-left: 40px">
                       <font face="'Open Sans', Arial, sans-serif">
-                        <a href="https://like.co" style="font-size: 16px; color: #28646E; text-decoration: none;">like.co</a>
+                        <a href="https://liker.land" style="font-size: 16px; color: #28646E; text-decoration: none;">Liker Land</a>
                       </font>
                     </td>
                   </tr>
